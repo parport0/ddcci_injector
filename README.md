@@ -10,6 +10,10 @@ with a rotary knob.
 
 Written in Arduino because I value my sanity more than my dignity.
 
+| ![Photo of the device showing the main menu](photo_menu.jpg) | ![Photo of the device showing the input select menu](photo_inputs.jpg) |
+| ------------------- | --------------------- |
+| ![Photo of the device showing the brightness menu](photo_brightness.jpg) | ![Photo of the device showing the contrast menu](photo_contrast.jpg) |
+
 Good reading:
 
 * [VESA DDC/CI](https://vesa.org/vesa-standards/)
